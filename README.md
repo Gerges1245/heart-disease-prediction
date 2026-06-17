@@ -202,15 +202,6 @@ heart-disease-prediction/
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| **Ahmed Salem** | Team Leader |
-| **Ayman Mohamed** | |
-| **Mohamed Bahaa** | |
-| **Shahd Mostafa** | |
-| **Gerges Williams** | |
 
 **Instructors:** Assoc. Prof. Nermin Abd El-Wahab · Dr. Ebtsam El-Hussany  
 **Course:** Machine Learning CS363 — October University for Modern Science and Arts  
@@ -219,5 +210,5 @@ heart-disease-prediction/
 ---
 
 <div align="center">
-Made with ❤️ for CS363 Machine Learning · October University 2026
+
 </div>
